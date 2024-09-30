@@ -1,0 +1,8 @@
+fuel-consumption-using-machine-learning-approach/
+│
+├── data/                  # Dataset folder
+├── models/                # Saved machine learning models
+├── notebooks/             # Jupyter notebooks for experimentation
+├── app.py                 # Flask app for deployment
+├── requirements.txt       # Dependencies
+└── README.md              # Documentation
